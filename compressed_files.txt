@@ -1,0 +1,9 @@
+boot.img.xz
+modem.img.xz
+recovery.img.xz
+odm/lib64/libCipParameter3.so.xz
+odm/lib64/libCipParameter0.so.xz
+odm/lib64/libCipParameter2.so.xz
+vendor_boot.img.xz
+bootRE/boot.elf.xz
+product/app/webview/webview.apk.xz

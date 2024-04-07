@@ -1,0 +1,14 @@
+# CPH2449EEA-user 14 TP1A.220905.001 T.R4T3.159da5c-493-491 release-keys
+- manufacturer: oneplus
+- platform: kalama
+- codename: OP594DL1
+- flavor: lineage_salami-userdebug
+- release: 14
+- id: UQ1A.240205.004
+- incremental: 346c8aa40d
+- tags: release-keys
+- fingerprint: OnePlus/CPH2449EEA/OP594DL1:14/TP1A.220905.001/T.R4T3.159da5c-493-491:user/release-keys
+- is_ab: true
+- brand: OnePlus
+- branch: CPH2449EEA-user-14-TP1A.220905.001-T.R4T3.159da5c-493-491-release-keys
+- repo: oneplus_op594dl1_dump

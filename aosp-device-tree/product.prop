@@ -1,0 +1,16 @@
+af.fast_track_multiplier=1
+audio.deep_buffer.media=true
+audio.offload.min.duration.secs=30
+audio.offload.video=true
+ro.af.client_heap_size_kbyte=7168
+ro.com.android.mobiledata=false
+ro.config.alarm_alert=Hassium.ogg
+ro.config.notification_sound=Argon.ogg
+ro.config.ringtone=Orion.ogg
+ro.dalvik.vm.enable_uffd_gc=false
+ro.opa.device_model_id=ga-oplus-skill-os121-211011
+ro.product.ab_ota_partitions=abl,aop,aop_config,bluetooth,boot,cpucp,devcfg,dsp,dtbo,engineering_cdt,featenabler,hyp,imagefv,init_boot,keymaster,modem,odm,oplus_sec,oplusstanvbk,product,qupfw,recovery,shrm,splash,system,system_dlkm,system_ext,tz,uefi,uefisecapp,vbmeta,vbmeta_system,vbmeta_vendor,vendor,vendor_boot,vendor_dlkm,xbl,xbl_config,xbl_ramdump
+ro.product.cpu.pagesize.max=4096
+ro.support_one_handed_mode=true
+setupwizard.feature.day_night_mode_enabled=true
+setupwizard.theme=glif_v4

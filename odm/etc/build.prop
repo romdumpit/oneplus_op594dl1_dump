@@ -1,0 +1,55 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=OnePlus
+ro.product.odm.device=OP594DL1
+ro.product.odm.manufacturer=OnePlus
+ro.product.odm.model=CPH2449
+ro.product.odm.name=CPH2449
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Fri Mar 15 16:36:03 UTC 2024
+ro.odm.build.date.utc=1710520563
+ro.odm.build.fingerprint=OnePlus/CPH2449EEA/OP594DL1:14/TP1A.220905.001/T.R4T3.159da5c-493-491:user/release-keys
+ro.odm.build.id=UQ1A.240205.004
+ro.odm.build.tags=release-keys
+ro.odm.build.type=userdebug
+ro.odm.build.version.incremental=346c8aa40d
+ro.odm.build.version.release=14
+ro.odm.build.version.release_or_codename=14
+ro.odm.build.version.sdk=34
+####################################
+# from device/oneplus/sm8550-common/odm.prop
+####################################
+# Audio
+ro.config.media_vol_steps=30
+ro.config.vc_call_vol_steps=9
+ro.vendor.qti.va_odm.support=1
+# Bluetooth
+persist.vendor.bluetooth.modem_nv_support=true
+# Display
+ro.vendor.display.sensortype=2
+vendor.display.enable_rc_support=0
+vendor.display.enable_rounded_corner=0
+vendor.display.disable_noise_layer=1
+vendor.display.force_dv_support=1
+# Radio
+persist.vendor.radio.force_on_dc=true
+persist.vendor.radio.poweron_opt=1
+persist.vendor.radio.stack_id_0=0
+persist.vendor.radio.stack_id_1=1
+ro.sys.reserve.integrate=true
+ro.vendor.oplus.radio.project=1
+ro.vendor.oplus.radio.sar_regionmark=FCC
+# SVN
+ro.build.version.svn=49
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+
